@@ -1,5 +1,7 @@
 ## A Cellular Automaton
 
+![Netlogo Screenshot](screenshots/screenshot1.png)
+
 ### What is it?
 
 A cellular automata that models adaptive transport. White particles are transported over a green road, which is protected by brown walls. When the particles collide, they will die and a new road is created, perpendicular to the original one. This results in a cross-section. When a different particle reaches this crossing, it will become the flow controller of that crossing.
